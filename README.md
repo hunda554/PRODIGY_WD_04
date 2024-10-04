@@ -32,37 +32,29 @@ My journey into programming began with the **Addis Coder** program, where I disc
 ## My Projects
 
 ### Self-Farming and Harvesting Tractor
-![Self-Farming Tractor](images/pexels-pixabay-257699.jpg)
 The idea for this project originated from the challenges faced by Ethiopian farmers in farming and harvesting their products. Agriculture is the backbone of Ethiopia, with 85% of the population dependent on it. Many farmers struggle with outdated methods, making it difficult to increase their yield. To address this issue, I developed a self-farming and harvesting tractor aimed at modernizing farming practices.
 
 ### Responsive Portfolio Website
-![Portfolio Website](images/pexels-negativespace-169573.jpg)
 This responsive website serves as my digital portfolio, showcasing my skills, projects, and certifications. It is designed using HTML, CSS, and Bootstrap, ensuring a seamless user experience across different devices.
 
 ## Certifications
 
 ### Certificate of Excellence
-![Excellence Certificate](images/wald.jpg)
 Awarded for having the highest score in the grade 8 ministry examination.
 
 ### Python Data Structures and Algorithms
-![Python Certification](images/py.jpg)
-Completed the course on Python Data Structures and Algorithms from Mindluster E-learning platform.
+Completed the course on Python Data Structures and Algorithms from the Mindluster E-learning platform.
 
 ### Regional Mathematics Competition Winner
-![Math Competition Certificate](images/comp.jpg)
 Recognized for winning a competition held in the Oromia region, achieving 1st place.
 
 ### Volunteer Teaching Certificate
-![Volunteer Teaching Certificate](images/teach.jpg)
 Volunteered at Modjo Evangelical Church, teaching subjects like mathematics, English, and science.
 
 ### SciTech4All Participation
-![SciTech4All Certificate](images/si.jpg)
 Certified for participating in SciTech4All, where I learned Python, quantum computing, AI, data science, and cybersecurity.
 
 ### National Mathematics Competition Certificate
-![Math Competition Certificate](images/maths.jpg)
 Received recognition for achieving a great score in the Mysorobom National Mathematics Competition.
 
 ## Contact Me
@@ -70,7 +62,7 @@ Received recognition for achieving a great score in the Mysorobom National Mathe
 Feel free to reach out if you have any questions or would like to connect!
 
 - **Name:** Hundaol Abera Fita
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [your-email@example.com](mailto:hundaolabera46@gmail.com)
 
 ## Technologies Used
 
@@ -84,6 +76,6 @@ Feel free to reach out if you have any questions or would like to connect!
 To view this project locally, clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/hunda554/PRODIGY_WD_04.git
 cd your-repo-name
 open index.html
