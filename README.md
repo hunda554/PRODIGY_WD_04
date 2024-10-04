@@ -62,7 +62,7 @@ Received recognition for achieving a great score in the Mysorobom National Mathe
 Feel free to reach out if you have any questions or would like to connect!
 
 - **Name:** Hundaol Abera Fita
-- **Email:** [your-email@example.com](mailto:hundaolabera46@gmail.com)
+- **Email:** [hundaolabera46@gmail.com](mailto:hundaolabera46@gmail.com)
 
 ## Technologies Used
 
@@ -77,5 +77,5 @@ To view this project locally, clone the repository and open the `index.html` fil
 
 ```bash
 git clone https://github.com/hunda554/PRODIGY_WD_04.git
-cd your-repo-name
+cd PRODIGY_WD_04
 open index.html
