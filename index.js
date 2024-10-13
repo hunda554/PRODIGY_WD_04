@@ -23,7 +23,7 @@ $(document).ready(function() {
 
     // Google Maps Initialization
     function initMap() {
-        var location = { lat: -25.344, lng: 131.036 }; // Replace with your desired latitude and longitude
+        var location = { lat: 9.145, lng: 40.489673 }; // Replace with your desired latitude and longitude
         var map = new google.maps.Map(document.getElementById("map"), {
             zoom: 4,
             center: location
